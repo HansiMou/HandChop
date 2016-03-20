@@ -1,0 +1,5 @@
+amazon, http://www.amazon.com/s/?field-keywords=
+target, http://www.target.com/s?searchTerm=
+asos, http://us.asos.com/search/?q=
+sephora, http://www.sephora.com/search/search.jsp?keyword=
+nordstrom, http://shop.nordstrom.com/sr?keyword=
